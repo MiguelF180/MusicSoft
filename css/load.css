@@ -1,0 +1,14 @@
+#load{
+  background:#000;
+  width:100vw;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+#load img{
+  width:70px;
+}
+.hidden{
+  overflow:hidden;
+}
